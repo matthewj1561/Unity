@@ -2,7 +2,7 @@
 
 This project is a Shrek themed FPS shooter that has you clear out your "swamp" from enemy faires. This very basic game is an extensive modification of FPS shooter tutorial that can be found within the Unity Hub help section. Creating this project helped me learn about file management, importing and exporting 3d models, modifying and creating new enemy behavior, and working with various pathfinding strategies. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/qr1Mqci9r5s)
 
 # Development Environment
 
